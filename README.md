@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 I'm a Secondary 4 (S4) student currently studying at **Kwun Tong Kung Lok Government Secondary School**.
 - ⚽ Passionate about **football** and **technology/digital gadgets**.
-- 🔴⚪ Die-hard fan of **Manchester United** football club.
+- 🔴 Die-hard fan of **Manchester United** football club.
 - 📱 Tech enthusiast with a soft spot for **OnePlus** devices.
 - 🔧 Proud **root user** exploring the depths of Android customization.
 
