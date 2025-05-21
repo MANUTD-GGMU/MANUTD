@@ -1,36 +1,49 @@
-# 👋 Hello! I'm s151081
+# 👋 Hi, I'm s151081  
+![Profile Picture](https://example.com/your-avatar.png) <!-- 替换为你的头像链接 -->
 
-### 📍 Basic Info  
-- Student at [Kwun Tong Kung Lok Government Secondary School](http://www.ktklgss.edu.hk) (S4)  
-- Passionate about **football** and **mobile tech**  
 
-### 🔧 Tech Interests  
-- Currently using: **Xiaomi 13T Pro** (HK version)  
-  - Unlocked BL & rooted with [KernelSU](https://github.com/KernelSU/KernelSU)  
-  - Custom kernels and module flashing enthusiast  
-- Big fan of **OnePlus** – saving up for the [OnePlus 15](https://www.oneplus.com/en) !  
-- Digital geek | Patient problem-solver  
+## 📚 Personal Info  
+- **Name**: s151081  
+- **School**: Kwun Tong Kung Lok Government Secondary School (S4)  
+  [![KTKLGSS Logo](https://www.ktklgss.edu.hk/it-school/php/webcms/public/data/school_logo.jpg)](https://www.ktklgss.edu.hk) <!-- 学校Logo & 官网链接 -->  
+- **Location**: Hong Kong  
 
-### ⚽ Football Love  
-- Die-hard fan of [Manchester United](https://www.manutd.com)  
-- Favourite player: [Bruno Fernandes](https://en.wikipedia.org/wiki/Bruno_Fernandes)  
 
-### 🎵 VOCALOID Fan  
-Proud supporter of VOCALOID music! Check out these great songs:  
-- [都市疗愈指北](https://www.bilibili.com/video/BV1vFETz3ESw)  
-- [等/左耳诗岸.右耳星尘](https://www.bilibili.com/video/BV1PU7fziE3F)  
-- [消失了，消失了——我们终将在梦的终点交汇](https://www.bilibili.com/video/BV1Cm4y187dJ)  
+## 🌟 Interests  
+- **Football**: Die-hard fan of **Manchester United**  
+  [![MU Official Website](https://www.manutd.com)](https://www.manutd.com)  
+  - Favorite Player: [Bruno Fernandes](https://en.wikipedia.org/wiki/Bruno_Fernandes)  
+- **Mobile Tech**:  
+  - Current Device: Xiaomi 13T Pro (HK)  
+    [![Xiaomi 13T Pro (HK)](https://www.mi.com/hk/xiaomi13tpro)](https://www.mi.com/hk/xiaomi13tpro)  
+    - Unlocked BL & rooted, using **KernelSU**  
+      [![KernelSU GitHub](https://github.com/KernelSU)](https://github.com/KernelSU)  
+      [![KernelSU Logo](https://kernelsu.org/logo.png)](https://kernelsu.org/logo.png) <!-- Logo链接 -->  
+    - Flashing mods & custom kernels  
+  - Favorite Brand: [OnePlus](https://www.oneplus.com)  
+    [![OnePlus Logo](https://cdn.brandfetch.io/idi46coDvW/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1676970644012)](https://www.oneplus.com) <!-- Logo链接 -->  
+  - Saving up for: OnePlus 15  
+- **Tech Geek**: Patient problem-solver in mobile modding & tech troubleshooting  
+- **VOCALOID Fan**: Love original songs by virtual singers!  
+  - Recommended Tracks:  
+    [都市療癒指北](https://www.bilibili.com/video/BV1vFETz3ESw)  
+    [等/左耳詩岸.右耳星塵](https://www.bilibili.com/video/BV1PU7fziE3F)  
+    [消失了，消失了——我們終將在夢的終點交匯](https://www.bilibili.com/video/BV1Cm4y187dJ)  
+    [![Bilibili Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bilibili_logo.png/1600px-Bilibili_logo.png)](https://www.bilibili.com) <!-- Logo链接 -->
 
-### 🌐 Useful Links  
-- [OnePlus Official Website](https://www.oneplus.com/en)  
-- [Xiaomi 13T Pro (HK) Page](https://www.mi.com/hk/xiaomi-13t-pro)  
-- [Manchester United Official Site](https://www.manutd.com)  
-- [Bruno Fernandes Wiki](https://en.wikipedia.org/wiki/Bruno_Fernandes)  
-- [KernelSU GitHub](https://github.com/KernelSU/KernelSU)  
-- My School's Website: [KTKLGSS](http://www.ktklgss.edu.hk)  
 
-### 🖼️ Images (Placeholders)  
-![OnePlus Logo](https://www.oneplus.com/etc/designs/oneplus/baseline/img/logo.png)  
-![Xiaomi 13T Pro](https://www.mi.com/hk/images/xiaomi-13t-pro/hero.jpg)  
-![Manchester United Logo](https://assets.manutd.com/i/ManUtd/Logo/PNG/ManUtd-Logo.png)  
-*(Note: Replace with direct image URLs if available)*  
+## 🛠 Skills  
+- Mobile device rooting & modding (Xiaomi/OnePlus)  
+- KernelSU configuration & module management  
+- Basic troubleshooting for Android systems  
+
+
+## 📌 Goals  
+- Master advanced Android kernel customization  
+- Upgrade to OnePlus 15 and explore its modding potential  
+- Contribute to open-source projects like KernelSU  
+
+
+## 📫 Contact  
+Feel free to connect with me via GitHub or check out my Bilibili recommendations above!  
+Happy to discuss football, tech, or VOCALOID anytime! ⚽📱🎵  
