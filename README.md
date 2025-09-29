@@ -1,102 +1,37 @@
-Here's a vibrant, humorous, and relatable GitHub README tailored for your profile:
+👋 Hey, I'm MANUTD (Yes, That Red Devil Fan)
  
-# 👋 Hello, I'm MANUTD!  
-> **Student | Red Devil in Training | Codebreaker**  
-> *Where football chants meet code rants* ⚽💻  
-
----  
-
-## 🎓 About Me  
-- **Age & Grade**: 16-year-old Secondary 5 student (Hong Kong education system)  
-- **School**: Kwun Tong Kung Lok Government Secondary School  
-  - Motto: *"Veritatem Facimus"* (We make truth)  
-- **Hobbies**:  
-  ⚽ Football (Manchester United til I die)  
-  📱 Mobile tech customization (currently butchering my Xiaomi)  
-  🎵 Band anime marathons (Girls Band Cry > sleep)  
-- **Life Goal**: Become a hybrid of Bruno Fernandes and a Xiaomi engineer  
-
----  
-
-## ⚽ Football Obsession  
-### 🔴 Manchester United Fanatic  
-- **Why Red?**  
-  "Manchester is red, and I'm here to prove it every matchday."  
-  - 20x Premier League champs (still waiting for #21)  
-  - 3x UCL winners (glory, glory Man United)  
-  - Current mood: *Screaming at the TV while Bruno takes a free kick*  
-
-### 💫 Bruno Fernandes Stan  
-- My role model: The man who turns losses into penalties  
-- My jersey number: #8 (same as his... obviously)  
-- Fun fact: I once stayed up all night analyzing his pass maps  
-
----  
-
-## 📱 Tech Journey  
-### 🚀 Current Arsenal:  
-#### Xiaomi 13T Pro (my coding companion)  
-- **Mods**:  
-  ✅ Unlocked bootloader (RIP warranty)  
-  ⚡ KernelSU root (because permissions are for cowards)  
-  🛠️ Custom ROMs (currently running *"RedDevilOS"*)  
-- **Specs**:  
-  - Leica triple camera (50MP main) – perfect for stadium selfies  
-  - 144Hz AMOLED display – smooth for both coding and FIFA  
-  - 120W HyperCharge – charges faster than Rashford runs  
-
-#### Xiaomi Pad 6S Pro (my canvas)  
-- **Usage**:  
-  - Mobile graphics design (Photoshop? More like *XiaomiShop*)  
-  - Anime streaming (BanG Dream! on a 12.4" screen = immersive chaos)  
-
----  
-
-## 💻 Skills  
-```bash  
-# My command-line arsenal  
-$ adb devices  
-$ fastboot oem unlock  
-$ kernelsu --install-module football-passion.kz  
-
-# My code specialties  
-- Android customization (rooting, magisk modules)  
-- Mobile graphics (Procreate & Canva power user)  
-- Football tactics analysis (via YouTube tutorials)  
-
-# My weaknesses  
-$ fix_iphone_problems() {  
-  echo "Error: Not a programmer for Apple devices"  
-}  
- 
+About Me
  
- 
+16-year-old Form 5 student with three obsessions: football tactics, sleek tech, and band anime that makes me blast guitar riffs in my room. When I’m not cramming for exams, you’ll find me either chasing a football or geeking out over Xiaomi’s latest specs. Manchester is red, and my GitHub is (slowly) getting there too.
  
-🎵 Band Anime Corner
+⚽ Football Obsession
  
-- Current Obsessions:
-- Girls Band Cry: Hyped for the new movie and game!
-- BanG Dream! MyGO!!!: Moca's guitar solos > homework
-- Fun Fact: I've memorized all the lyrics to "Shuuen no Carnival"
+- Club Loyalty: Die-hard Manchester United fan — "Glory Glory Man United" is my shower anthem (sorry, neighbors) 🔴 .
+- On the Pitch: I play AMF (Attacking Midfielder) — channeling my inner Bruno Fernandes with risky through-balls and (attempted) long-range screamers . Still working on his penalty accuracy, though.
+- Hero Worship: Bruno Fernandes stan first, human second. Love his high-risk, high-reward playstyle and that "never back down" energy — even if I try not to copy his occasional red-card temper  .
  
- 
+🎸 Band Anime Fanatic
  
-📍 Socials
+- Top Picks:
+- Girls Band Cry: Binged all 13 episodes in 2 days — that "雑踏、僕らの街" OP still gives me chills .
+- BanG Dream!: MyGO!!!!! is my ride-or-die — laughed way too hard at the "great bassist steps on wig" live moment .
+- Vibe: Nothing hits like anime bands turning pain into bangers. Low-key practicing air guitar to their tracks pre-match for luck.
  
-- GitHub: MANUTD
-- Twitter: @MANUTD_10
-- DMs: Open for football debates and tech tips (no iPhone questions pls)
+📱 Tech Sidekicks
  
-Visitor Count
+My daily carry that keeps me functional (and entertained):
  
-"Code hard, tackle harder" – My personal moto
-(Inspired by both Bruno Fernandes and Linus Torvalds)
+- Xiaomi 13T Pro: Captures match highlights and streams United games — its camera even makes my terrible passes look good.
+- Xiaomi Pad 6S Pro: 12.4-inch 3K 144Hz screen = perfect for analyzing football tactics and binge-watching anime  . 120W fast charge saves me when it dies mid-BanG Dream! marathons.
  
-
-This README combines:  
-1. **Football passion**: With humor about Man Utd's current form and Bruno Fernandes obsession  
-2. **Tech enthusiasm**: Showcases your Xiaomi devices and customization skills  
-3. **Anime love**: Highlights your interest in Girls Band Cry and BanG Dream!  
-4. **Personal touch**: Humorous code snippets and relatable teenager references  
-
-Let me know if you want to tweak any part! 😄
+Fun Facts
+ 
+- I once missed a penalty because I was thinking about Bruno’s free-kick technique.
+- My Pad’s home screen is split 50/50: football stats apps and anime wallpapers.
+- Still waiting for Xiaomi to make a曼联-themed phone (Xiaomi 14T Pro "Red Devil Edition", please?).
+ 
+🔭 What’s Next?
+ 
+Trying to merge my interests: maybe code a simple app to track Bruno’s assists and anime band release dates. Baby steps, but hey — even Bruno started somewhere.
+ 
+Let’s connect if you love United, Xiaomi tech, or band anime! ⚽📱🎶
