@@ -28,7 +28,7 @@ Fun Facts
  
 - I once missed a penalty because I was thinking about Bruno’s free-kick technique.
 - My Pad’s home screen is split 50/50: football stats apps and anime wallpapers.
-- Still waiting for Xiaomi to make a曼联-themed phone (Xiaomi 14T Pro "Red Devil Edition", please?).
+- Still waiting for Xiaomi to make a ManUnited-themed phone (Xiaomi 16T Pro "Red Devil Edition", please?).
  
 🔭 What’s Next?
  
