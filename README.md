@@ -32,6 +32,6 @@ Fun Facts
  
 🔭 What’s Next?
  
-Trying to merge my interests: maybe code a simple app to track Bruno’s assists and anime band release dates. Baby steps, but hey — even Bruno started somewhere.
+Trying to merge my interests: maybe code a simple app to track ManUnited Match and anime band release dates. Baby steps, but hey — even Bruno started somewhere.
  
 Let’s connect if you love United, Xiaomi tech, or band anime! ⚽📱🎶
